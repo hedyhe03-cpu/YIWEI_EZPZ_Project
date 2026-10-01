@@ -56,7 +56,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DoorPivot
+  m_Name: DoorPivot 1
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: open
@@ -105,7 +105,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2eb0f46f58c37cc41b0f8bd9aed18d51, type: 2}
+  m_Motion: {fileID: 7400000, guid: 2c715e9eb7029485cb859f1e75f8e692, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
